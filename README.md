@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 👩‍⚕️ Mahnoosh Parsa
+- 📚 DVM | veterinary researcher
+- 💻 Histopathology and computer vision
 
 <!--
 **mahnoosh76/mahnoosh76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
