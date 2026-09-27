@@ -1,8 +1,16 @@
 ## Hi there 👋
 - «I am a veterinarian interested in applying computer vision and deep learning to biomedical and histopathological imaging.»
-- 👩‍⚕️ Mahnoosh Parsa
+ - 👩‍⚕️ Mahnoosh Parsa
 - 📚 DVM | veterinary researcher
 - 💻 Histopathology and computer vision
+
+## Research interests:
+- Biomedical imaging
+- Histopathology
+- Computer vision
+- Deep learning
+## Featured project
+- Brain Histopathology Segmentation using U-Net
 
 <!--
 **mahnoosh76/mahnoosh76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
