@@ -1,4 +1,5 @@
 ## Hi there 👋
+- «I am a veterinarian interested in applying computer vision and deep learning to biomedical and histopathological imaging.»
 - 👩‍⚕️ Mahnoosh Parsa
 - 📚 DVM | veterinary researcher
 - 💻 Histopathology and computer vision
